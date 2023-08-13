@@ -1,0 +1,4 @@
+rgb(66,40,114) - violeta
+rgb(254,239,14) - amarelo
+rgb(3,135,184) - Azul
+rgb(220,226,240) - Cinza
